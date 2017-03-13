@@ -1,5 +1,5 @@
 CC=g++
-CFLAGS= -Wall -Werror
+CFLAGS= -g -Wall -Werror
 
 all: game_of_life
 
