@@ -30,3 +30,6 @@
 
 # vscode
 .vscode
+
+# output
+game_of_life
